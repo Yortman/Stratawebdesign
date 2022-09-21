@@ -1,0 +1,21 @@
+body {
+    color: #f9faf8;
+    font: roboto;
+    font-size: 48px;
+    font-weight:bolder;
+}
+
+div#container {
+  max-width: 1260px;
+  max-height: 600px;  
+  background-color: #1F2937;
+  display: flex;
+  margin: 0 auto;
+}
+
+div#header {
+    /* flex: 1; */
+    /* justify-content: flex-end; */
+    background-color: #1F2937;
+    color: #f9faf8;
+}
